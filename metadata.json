@@ -1,0 +1,6 @@
+{
+  "name": "PyHost",
+  "description": "Host and run Python scripts and Telegram Bots on Android with background foreground service, live terminal, and package manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
